@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111193467747",
+    "project_id": "sugar-tracker-93c4c",
+    "storage_bucket": "sugar-tracker-93c4c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111193467747:android:77720f331ca7fb10fe0156",
+        "android_client_info": {
+          "package_name": "com.example.sugar_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlrX1xlfzeMAoKOPrjdSi4dkNQfGE7_ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
